@@ -1,1 +1,8 @@
-#myImage{max-width: 250px;}
+#myImage {
+	float: left;
+	max-width: 250px;
+}
+
+p {
+	margin-left: 260px;
+}
