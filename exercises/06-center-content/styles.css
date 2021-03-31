@@ -1,1 +1,8 @@
-body{background:blue;}
+body {
+	background: blue;
+}
+div {
+	margin: auto;
+	width: 400px;
+	background-color: silver;
+}
